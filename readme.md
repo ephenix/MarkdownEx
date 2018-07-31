@@ -16,6 +16,14 @@ Import-Module MarkdownEx
 "Markdown String" | ConvertFrom-Markdown
 ```
 
+## Build
+
+Requires .net core to build
+
+```
+.\build.ps1
+```
+
 # Information
 
 * This Project -- https://github.com/ephenix/MarkdownEx
