@@ -1,0 +1,5 @@
+BuildOutput/
+*/obj/
+*/bin/
+packages/
+.vs/
